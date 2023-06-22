@@ -7,18 +7,18 @@ const triageConfig = {
       emoji: ':white_check_mark:'
     },
     Accepted: {
-      emoji: ':thumbsup_all:'
+      emoji: ':heavy_check_mark:'
     }
   },
   levels: {
     Urgent: {
-      emoji: ':red_circle:'
+      emoji: ':fire:'
     },
     Medium: {
-      emoji: ':large_blue_circle:'
+      emoji: ':warning:'
     },
     Low: {
-      emoji: ':white_circle:'
+      emoji: ':question:'
     }
   },
   scheduled_reminders: [
